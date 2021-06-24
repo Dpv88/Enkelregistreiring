@@ -6,7 +6,17 @@ const model = {
             bosted: 'Holmestrand',
             alder: '32',
             yndlingspill: 'Football Manager'
-        }],
+        },{
+            navn: 'Åge',
+            bosted: 'Horten',
+            alder: '25',
+            yndlingspill: 'Fortnite'
+    },{
+            navn: 'Vegard',
+            bosted: 'Oslo',
+            alder: '21',
+            yndlingspill: 'League of Legends'
+    }],
     inputs: {
         navn: '',
         bosted: '',
